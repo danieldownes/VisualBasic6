@@ -1,0 +1,8 @@
+`<noName>
+
+`Development history:
+`20-05-2001:
+`	     * Changed some addLogs
+`	- 1.0.1 -
+`	     + Setup - Working
+`	     + Main - Working
